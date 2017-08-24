@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Gender"
+permalink: /blog/gender/
+date:   2016-06-07
+image: images/ttcomics-01-gender
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

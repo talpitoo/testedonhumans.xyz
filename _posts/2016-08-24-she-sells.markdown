@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "She sells"
+permalink: /blog/she-sells/
+date:   2016-08-24
+image: images/ttcomics-04-she-sells
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
