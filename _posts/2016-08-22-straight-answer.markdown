@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Straight answer"
-permalink: /blog/gender/
+permalink: /blog/straight-answer/
 date:   2016-08-22
 image: images/ttcomics-02-straight-answer
 ---
