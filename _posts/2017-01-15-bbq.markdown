@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "BBQ"
+permalink: /blog/bbq/
+date:   2017-01-15
+image: images/ttcomics-19-bbq
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

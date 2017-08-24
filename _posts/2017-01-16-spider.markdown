@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Spider"
+permalink: /blog/spider/
+date:   2017-01-16
+image: images/ttcomics-20-spider
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

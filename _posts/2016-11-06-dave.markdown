@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Dave"
+permalink: /blog/dave/
+date:   2016-11-06
+image: images/ttcomics-18-dave
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

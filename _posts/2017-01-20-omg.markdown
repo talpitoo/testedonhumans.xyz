@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "OMG"
+permalink: /blog/omg/
+date:   2017-01-20
+image: images/ttcomics-24-omg
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

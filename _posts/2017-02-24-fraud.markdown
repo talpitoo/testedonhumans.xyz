@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fraud"
+permalink: /blog/fraud/
+date:   2017-02-24
+image: images/ttcomics-30-fraud
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

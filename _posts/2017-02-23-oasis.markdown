@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Oasis"
+permalink: /blog/oasis/
+date:   2017-02-23
+image: images/ttcomics-29-oasis
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
