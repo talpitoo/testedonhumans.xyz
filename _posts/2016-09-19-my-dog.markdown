@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "My dog"
+permalink: /blog/my-dog/
+date:   2016-09-19
+image: images/ttcomics-11-my-dog
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
