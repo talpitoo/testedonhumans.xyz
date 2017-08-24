@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Girl"
+permalink: /blog/girl/
+date:   2016-10-17
+image: images/ttcomics-15-girl
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
