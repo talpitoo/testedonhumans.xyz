@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fast food"
+permalink: /blog/fast-food/
+date:   2017-08-04
+image: images/ttcomics-33-fast-food
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

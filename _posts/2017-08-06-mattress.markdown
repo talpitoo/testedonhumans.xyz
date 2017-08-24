@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mattress"
+permalink: /blog/mattress/
+date:   2017-08-06
+image: images/ttcomics-35-mattress
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
