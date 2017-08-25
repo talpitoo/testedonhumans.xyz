@@ -258,7 +258,8 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-thumb {
+.post-thumb,
+.post-About img {
   width: 33%;
 
   @include media-query($on-laptop) {
