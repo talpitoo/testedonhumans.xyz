@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Holy gray"
+permalink: /blog/holy-gray/
+date:   2017-08-08
+image: images/ttcomics-37-holy-gray
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
