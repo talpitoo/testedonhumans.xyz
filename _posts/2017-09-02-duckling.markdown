@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Duckling"
+permalink: /blog/duckling/
+date:   2017-09-02
+image: images/ttcomics-41-duckling
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
