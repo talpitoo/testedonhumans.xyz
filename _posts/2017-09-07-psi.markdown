@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Psi"
+permalink: /blog/psi/
+date:   2017-09-07
+image: images/ttcomics-46-psi
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
