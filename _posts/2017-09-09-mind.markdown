@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Mind"
+permalink: /blog/mind/
+date:   2017-09-09
+image: images/ttcomics-48-mind
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
