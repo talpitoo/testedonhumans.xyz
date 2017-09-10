@@ -2,7 +2,7 @@
 layout: post
 title:  "GF"
 permalink: /blog/gf/
-date:   2017-09-09
+date:   2017-09-10
 image: images/ttcomics-49-gf
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
