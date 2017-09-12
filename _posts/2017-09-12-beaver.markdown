@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Beaver"
+permalink: /blog/beaver/
+date:   2017-09-12
+image: images/ttcomics-51-beaver
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
