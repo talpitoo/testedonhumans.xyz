@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Andy"
+permalink: /blog/andy/
+date:   2017-09-19
+image: images/ttcomics-53-andy
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
