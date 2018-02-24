@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "To be,"
+permalink: /blog/to-be/
+date:   2018-02-24
+image: images/ttcomics-55-2cb
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
