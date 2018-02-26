@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Abel"
+permalink: /blog/abel/
+date:   2018-02-26
+image: images/ttcomics-57-abel
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
