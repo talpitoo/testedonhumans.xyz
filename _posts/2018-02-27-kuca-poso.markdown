@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Kuća pos'o"
+permalink: /blog/kuca-poso/
+date:   2018-02-27
+image: images/ttcomics-58-kuca-poso
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
