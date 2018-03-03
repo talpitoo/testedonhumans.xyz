@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "All one"
+permalink: /blog/all-one/
+date:   2018-03-03
+image: images/ttcomics-62-all-one
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
