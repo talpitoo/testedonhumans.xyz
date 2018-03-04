@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Church"
+permalink: /blog/church/
+date:   2018-03-04
+image: images/ttcomics-63-crkva
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
