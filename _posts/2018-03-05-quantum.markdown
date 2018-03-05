@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quantum"
+permalink: /blog/quantum/
+date:   2018-03-05
+image: images/ttcomics-64-quantum
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
