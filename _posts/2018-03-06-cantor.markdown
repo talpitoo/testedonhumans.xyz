@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cantor"
+permalink: /blog/cantor/
+date:   2018-03-06
+image: images/ttcomics-65-cantor
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
