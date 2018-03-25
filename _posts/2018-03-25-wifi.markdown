@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wifi"
+permalink: /blog/wifi/
+date:   2018-03-25
+image: images/ttcomics-66-wifi
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
