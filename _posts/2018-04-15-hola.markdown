@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hola"
+permalink: /blog/hola/
+date:   2018-04-15
+image: images/ttcomics-67-hola
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
