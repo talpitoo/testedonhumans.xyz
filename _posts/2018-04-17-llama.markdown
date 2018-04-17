@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Llama"
+permalink: /blog/llama/
+date:   2018-04-17
+image: images/ttcomics-68-llama
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
