@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "The rapist"
+permalink: /blog/rapist/
+date:   2018-05-10
+image: images/ttcomics-71-the-rapist
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
