@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Check-in"
+permalink: /blog/check-in/
+date:   2018-05-12
+image: images/ttcomics-76-check-in
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

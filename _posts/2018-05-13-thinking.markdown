@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thinking"
+permalink: /blog/thinking/
+date:   2018-05-13
+image: images/ttcomics-73-mujo-haso
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
