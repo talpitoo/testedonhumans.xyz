@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Nothing"
+permalink: /blog/nothing/
+date:   2018-06-18
+image: images/ttcomics-79-nothing
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
