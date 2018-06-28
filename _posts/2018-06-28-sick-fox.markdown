@@ -2,7 +2,7 @@
 layout: post
 title:  "Sick fox"
 permalink: /blog/sick-fox/
-date:   2018-06-18
+date:   2018-06-28
 image: images/ttcomics-82-sick-fox
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
