@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Firewall"
+permalink: /blog/firewall/
+date:   2018-06-29
+image: images/ttcomics-81-firewall
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
