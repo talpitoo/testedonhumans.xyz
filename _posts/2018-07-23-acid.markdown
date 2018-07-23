@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Acid"
+permalink: /blog/acid/
+date:   2018-07-23
+image: images/ttcomics-83-acid
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
