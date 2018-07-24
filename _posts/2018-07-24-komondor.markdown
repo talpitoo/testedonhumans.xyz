@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Komondor"
+permalink: /blog/komondor/
+date:   2018-07-24
+image: images/ttcomics-88-komondor
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
