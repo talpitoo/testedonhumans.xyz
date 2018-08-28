@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Trans"
+permalink: /blog/trans/
+date:   2018-08-28
+image: images/ttcomics-90-trans
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

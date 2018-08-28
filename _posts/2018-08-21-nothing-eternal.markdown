@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nothing"
+title:  "Nothing is"
 permalink: /blog/nothing-is-eternal/
 date:   2018-08-21
 image: images/ttcomics-89-nothing
