@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cher"
+permalink: /blog/cher/
+date:   2018-08-31
+image: images/ttcomics-91-cher
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
