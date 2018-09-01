@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Punks"
+permalink: /blog/punks/
+date:   2018-09-01
+image: images/ttcomics-92-punks
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
