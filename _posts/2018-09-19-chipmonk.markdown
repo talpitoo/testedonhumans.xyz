@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chipmonk"
+permalink: /blog/chipmonk/
+date:   2018-09-19
+image: images/ttcomics-94-chipmonk
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
