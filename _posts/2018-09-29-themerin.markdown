@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Themerin"
+permalink: /blog/themerin/
+date:   2018-09-29
+image: images/ttcomics-97-themerin
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
