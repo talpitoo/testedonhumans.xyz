@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Grandson"
+permalink: /blog/grandson/
+date:   2018-09-30
+image: images/ttcomics-102-grandson
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
