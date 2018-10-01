@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Goodwill"
+permalink: /blog/goodwill/
+date:   2018-10-01
+image: images/ttcomics-85-good-voja
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
