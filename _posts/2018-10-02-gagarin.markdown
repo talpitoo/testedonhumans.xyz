@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Gagarin"
+permalink: /blog/gagarin/
+date:   2018-10-02
+image: images/ttcomics-102-gagarin
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
