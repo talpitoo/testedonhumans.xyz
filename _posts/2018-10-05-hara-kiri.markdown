@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hara-kiri"
+permalink: /blog/hara-kiri/
+date:   2018-10-05
+image: images/ttcomics-99-hara-kiri
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
