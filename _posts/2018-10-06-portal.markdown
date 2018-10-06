@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Portal"
+permalink: /blog/portal/
+date:   2018-10-06
+image: images/ttcomics-101-portal
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
