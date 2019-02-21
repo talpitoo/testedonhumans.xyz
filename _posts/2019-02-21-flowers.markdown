@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Flowers"
+permalink: /blog/flowers/
+date:   2019-02-21
+image: images/ttcomics-109-flowers
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
