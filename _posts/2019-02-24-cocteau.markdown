@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cocteau"
+permalink: /blog/cocteau/
+date:   2019-02-24
+image: images/ttcomics-112-cocteau-twins
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
