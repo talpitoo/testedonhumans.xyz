@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Bill"
+permalink: /blog/bill/
+date:   2019-02-25
+image: images/ttcomics-114-cist-racun
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
