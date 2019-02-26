@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Alliance"
+permalink: /blog/alliance/
+date:   2019-02-26
+image: images/ttcomics-121-alliance
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

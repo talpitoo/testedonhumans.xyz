@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Bill"
-permalink: /blog/bill/
+title:  "Kant"
+permalink: /blog/kant/
 date:   2019-02-25
-image: images/ttcomics-114-cist-racun
+image: images/ttcomics-117-kant
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

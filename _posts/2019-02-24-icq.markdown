@@ -2,7 +2,7 @@
 layout: post
 title:  "ICQ"
 permalink: /blog/icq/
-date:   2019-02-26
+date:   2019-02-24
 image: images/ttcomics-115-icq
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Wife"
+permalink: /blog/wife/
+date:   2019-02-18
+image: images/ttcomics-108-wife
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

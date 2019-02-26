@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Wife"
-permalink: /blog/wife/
+title:  "Forever"
+permalink: /blog/forever/
 date:   2019-02-20
-image: images/ttcomics-108-wife
+image: images/ttcomics-110-forever-jung
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

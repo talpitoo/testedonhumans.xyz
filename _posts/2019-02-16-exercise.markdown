@@ -2,7 +2,7 @@
 layout: post
 title:  "Exercise"
 permalink: /blog/exercise/
-date:   2019-02-17
+date:   2019-02-16
 image: images/ttcomics-106-exercise
 ---
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
