@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Hume"
+permalink: /blog/hume/
+date:   2019-02-27
+image: images/ttcomics-116-hume
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
