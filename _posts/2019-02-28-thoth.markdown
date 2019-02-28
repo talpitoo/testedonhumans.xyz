@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Thoth"
+permalink: /blog/thoth/
+date:   2019-02-28
+image: images/ttcomics-118-thoth
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
