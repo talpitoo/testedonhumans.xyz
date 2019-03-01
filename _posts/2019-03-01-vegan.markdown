@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Vegan"
+permalink: /blog/vegan/
+date:   2019-03-01
+image: images/ttcomics-119-vegan
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
