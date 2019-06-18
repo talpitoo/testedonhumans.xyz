@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Alone"
+permalink: /blog/alone/
+date:   2019-06-18
+image: images/ttcomics-125-alone
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
