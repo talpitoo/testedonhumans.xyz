@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Tai chi"
+permalink: /blog/tajci/
+date:   2019-06-20
+image: images/ttcomics-127-tajci
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

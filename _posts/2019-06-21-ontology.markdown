@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ontology"
+permalink: /blog/ontology/
+date:   2019-06-21
+image: images/ttcomics-128-ontology
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
