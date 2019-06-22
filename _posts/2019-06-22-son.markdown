@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Son"
+permalink: /blog/son/
+date:   2019-06-22
+image: images/ttcomics-129-son-of
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
