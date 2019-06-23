@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "On the house"
+permalink: /blog/house/
+date:   2019-06-23
+image: images/ttcomics-130-kuca-casti
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
