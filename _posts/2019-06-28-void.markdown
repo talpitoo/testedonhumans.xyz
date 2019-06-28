@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Void"
+permalink: /blog/void/
+date:   2019-06-28
+image: images/ttcomics-135-void
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
