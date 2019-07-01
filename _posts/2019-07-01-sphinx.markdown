@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Sphinx"
+permalink: /blog/sphinx/
+date:   2019-07-01
+image: images/ttcomics-136-sphinx
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
