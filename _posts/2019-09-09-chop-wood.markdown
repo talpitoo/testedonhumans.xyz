@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Chop wood"
+permalink: /blog/chop-wood/
+date:   2019-09-09
+image: images/ttcomics-137-chop-wood
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
