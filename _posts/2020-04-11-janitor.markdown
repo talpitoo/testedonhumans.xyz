@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Janitor"
+permalink: /blog/janitor/
+date:   2020-04-11
+image: images/ttcomics-142-janitor
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

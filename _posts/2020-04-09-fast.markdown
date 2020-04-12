@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fast"
+permalink: /blog/fast/
+date:   2020-04-09
+image: images/ttcomics-140-fast
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
