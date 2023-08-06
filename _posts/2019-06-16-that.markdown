@@ -1,8 +1,0 @@
----
-layout: post
-title:  "That"
-permalink: /blog/that/
-date:   2019-06-16
-image: images/ttcomics-123-that
----
-![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

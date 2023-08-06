@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Zambia"
-permalink: /blog/zambia/
-date:   2017-08-07
-image: images/ttcomics-36-zambia
----
-![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)

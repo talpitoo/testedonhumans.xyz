@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Zen"
-permalink: /blog/zen/
-date:   2019-06-26
-image: images/ttcomics-133-zen
----
-![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
