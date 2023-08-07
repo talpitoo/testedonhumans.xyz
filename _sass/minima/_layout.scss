@@ -122,7 +122,7 @@
 }
 
 .footer-col-wrapper {
-  @include relative-font-size(0.9375);
+  // @include relative-font-size(0.9375);
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -193,7 +193,7 @@
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  // font-size: $small-font-size;
   color: $grey-color;
 }
 
@@ -252,6 +252,10 @@
 .fb-like {
   padding: $spacing-unit 0;
   text-align: center;
+}
+
+.logo {
+  height: auto;
 }
 
 .logo,
