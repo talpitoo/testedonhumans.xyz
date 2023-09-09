@@ -6,6 +6,6 @@ image: images/talpitoo
 menu: main
 ---
 
-Unproductive scribblings tested on Tamás Tóth, [tothtamas.tt](http://tothtamas.tt/).
+Unproductive scribblings tested on Tamás Tóth, [talpitoo.com](https://talpitoo.com/).
 
 ![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
