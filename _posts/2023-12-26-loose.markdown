@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Lo(o)se"
+permalink: /blog/loose/
+date:   2023-12-26
+image: images/ttcomics-158-knap
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
