@@ -6,7 +6,7 @@ Unproductive scribblings, spacetime bending, applied metaphysics
 
 ## Troubleshooting
 * https://jekyllrb.com/docs/
-* `sudo apt install jekyll`
+* `sudo apt install jekyll` (or, if doesn't work `gem install jekyll`)
 * `sudo gem install minima`
 * `sudo gem install jekyll-paginate`
 * `jekyll serve`
