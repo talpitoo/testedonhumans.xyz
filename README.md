@@ -1,6 +1,6 @@
 # [Tested on humans](http://testedonhumans.xyz/)
 
-Unproductive scribblings, spacetime bending, applied metaphysics
+Unproductive scribblings / applied metaphysics
 
 ![Tested on humans logo](http://testedonhumans.xyz/images/ttcomics-tested-on-humans.jpg)
 
