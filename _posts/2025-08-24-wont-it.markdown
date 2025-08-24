@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Won’t it?"
+permalink: /blog/wont-it/
+date:   2025-08-24
+image: images/ttcomics-159-wont-it
+---
+![{{ page.title }}]({{ site.url }}/{{ page.image }}.jpg)
